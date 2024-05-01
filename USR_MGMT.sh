@@ -1,8 +1,8 @@
 #!/bin/bash
 
-<<Comment
+<<Comment_1
 This script is for the user Management and Backup.
-Comment
+Comment_1
 
 
 function display_options {
